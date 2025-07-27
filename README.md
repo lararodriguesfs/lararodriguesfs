@@ -84,6 +84,7 @@ Estou disponível para colaborações e oportunidades que me permitam crescer e 
   <img 
     alt="Top Languages" 
     height="200" 
+    style="width: 350px; object-fit: contain;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lararodriguesfs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </div>
