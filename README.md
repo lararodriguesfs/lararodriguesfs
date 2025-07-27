@@ -15,7 +15,6 @@ Estou disponível para colaborações e oportunidades que me permitam crescer e 
 
 ---
 
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -76,19 +75,15 @@ Estou disponível para colaborações e oportunidades que me permitam crescer e 
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 7px;" 
     src="https://github-readme-stats.vercel.app/api?username=lararodriguesfs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
   <img 
-    align="left" 
     alt="Top Languages" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lararodriguesfs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
-</p>
+</div>
