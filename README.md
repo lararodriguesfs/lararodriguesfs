@@ -75,16 +75,21 @@ Estou disponível para colaborações e oportunidades que me permitam crescer e 
 
 ### 📊 Estatísticas
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=lararodriguesfs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Languages" 
-    height="200" 
-    style="width: 350px; object-fit: contain;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lararodriguesfs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=lararodriguesfs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Languages" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lararodriguesfs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+      />
+    </td>
+  </tr>
+</table>
