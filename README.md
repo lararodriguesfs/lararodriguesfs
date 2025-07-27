@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em formação`**
 
-Olá, meu nome é **Lara Rodrigues**.  
+Olá! meu chamo **Lara**.  
 Sou uma desenvolvedora em desenvolvimento, comprometida com o aprendizado contínuo e a busca por excelência técnica.  
 
 Tenho interesse em aprofundar meus conhecimentos na área de desenvolvimento de software, aplicando boas práticas e soluções eficientes.  
