@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em formação`**
 
-Olá, meu nome é **Lara Rodrigues**.  
+Olá, meu nome é **Lara**.  
 Sou uma desenvolvedora em desenvolvimento, comprometida com o aprendizado contínuo e a busca por excelência técnica.  
 
 Tenho interesse em aprofundar meus conhecimentos na área de desenvolvimento de software, aplicando boas práticas e soluções eficientes.  
@@ -77,14 +77,6 @@ Estou disponível para colaborações e oportunidades que me permitam crescer e 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 7px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lararodriguesfs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
   <img 
     align="left" 
     alt="Top Languages" 
