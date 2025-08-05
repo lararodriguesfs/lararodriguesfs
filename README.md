@@ -10,11 +10,14 @@ Este espaço reflete meu progresso, projetos e meu empenho em construir uma carr
 
 Estou disponível para colaborações e oportunidades que me permitam crescer e contribuir de forma significativa.
 
-📫 **Contato:** lararodriguesfs@gmail.com  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/la-rodrigues/](https://www.linkedin.com/in/la-rodrigues/)
-
 ---
 
+### 📫 Contato
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lararodriguesfs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/la-rodrigues/)
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -47,40 +50,4 @@ Estou disponível para colaborações e oportunidades que me permitam crescer e 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lararodriguesfs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-</p>
+    style="padding-rig
