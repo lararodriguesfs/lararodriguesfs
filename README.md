@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lara Rodrigues
 
-**`Desenvolvedora em formação`**
+**`Desenvolvedora Full Stack em Formação`**
 
 Olá, meu nome é **Lara Rodrigues**.  
 Sou uma desenvolvedora em desenvolvimento, comprometida com o aprendizado contínuo e a busca por excelência técnica.  
@@ -10,8 +10,16 @@ Este espaço reflete meu progresso, projetos e meu empenho em construir uma carr
 
 Estou disponível para colaborações e oportunidades que me permitam crescer e contribuir de forma significativa.
 
-📫 **Contato:** lararodriguesfs@gmail.com  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/la-rodrigues/](https://www.linkedin.com/in/la-rodrigues/)
+📫 **Contato e Redes:**
+
+<p align="left">
+  <a href="mailto:lararodriguesfs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/la-rodrigues/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
@@ -81,6 +89,6 @@ Estou disponível para colaborações e oportunidades que me permitam crescer e 
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lararodriguesfs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lararodriguesfs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </p>
