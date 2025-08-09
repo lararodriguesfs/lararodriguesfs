@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em formação`**
 
-Olá, meu nome é **Lara**.  
+Olá, meu nome é **Lara Rodrigues**.  
 Sou uma desenvolvedora em desenvolvimento, comprometida com o aprendizado contínuo e a busca por excelência técnica.  
 
 Tenho interesse em aprofundar meus conhecimentos na área de desenvolvimento de software, aplicando boas práticas e soluções eficientes.  
@@ -10,14 +10,11 @@ Este espaço reflete meu progresso, projetos e meu empenho em construir uma carr
 
 Estou disponível para colaborações e oportunidades que me permitam crescer e contribuir de forma significativa.
 
----
-
-### 📫 Contato
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lararodriguesfs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/la-rodrigues/)
+📫 **Contato:** lararodriguesfs@gmail.com  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/la-rodrigues/](https://www.linkedin.com/in/la-rodrigues/)
 
 ---
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -53,6 +50,7 @@ Estou disponível para colaborações e oportunidades que me permitam crescer e 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img
     align="left"
     alt="Python"
@@ -61,6 +59,7 @@ Estou disponível para colaborações e oportunidades que me permitam crescer e 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -68,14 +67,6 @@ Estou disponível para colaborações e oportunidades que me permitam crescer e 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <br/>
@@ -86,6 +77,14 @@ Estou disponível para colaborações e oportunidades que me permitam crescer e 
 ### 📊 Estatísticas
 
 <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 7px;" 
+    src="https://github-readme-stats.vercel.app/api?username=lararodriguesfs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
   <img 
     align="left" 
     alt="Top Languages" 
