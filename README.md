@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lara Rodrigues
 
-**`Desenvolvedora Back-End em Formação`**
+**`Desenvolvedora Full-Stack em Formação`**
 
 Olá, meu nome é **Lara Rodrigues**.  
 Sou uma desenvolvedora em desenvolvimento, comprometida com o aprendizado contínuo e a busca por excelência técnica.  
