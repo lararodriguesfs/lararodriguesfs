@@ -6,7 +6,7 @@ Olá, meu nome é **Lara Rodrigues**.
 Sou uma desenvolvedora em desenvolvimento, comprometida com o aprendizado contínuo e a busca por excelência técnica.  
 
 Tenho interesse em aprofundar meus conhecimentos na área de desenvolvimento de software, aplicando boas práticas e soluções eficientes.  
-Este espaço reflete meu progresso, projetos e meu empenho em construir uma carreira sólida na tecnologia.
+Este espaço reflete meu progresso, projetos e meu empenho em construir uma carreira sólida na tecnologia. 
 
 Estou disponível para colaborações e oportunidades que me permitam crescer e contribuir de forma significativa.
 
