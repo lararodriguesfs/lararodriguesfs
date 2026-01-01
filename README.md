@@ -1,94 +1,74 @@
-# 👩🏻‍💻 Lara Rodrigues
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d1d5db,50:0f172a,100:d1d5db&height=190&section=header&text=Lara%20Rodrigues&fontSize=44&fontColor=ffffff&fontFamily=Playfair+Display&animation=fadeIn&fontAlignY=35" />
 
-**`Desenvolvedora Full-Stack em Formação`**
+<p align="center"><strong>DESENVOLVEDORA BACK-END EM FORMAÇÃO</strong></p>
 
-Olá, meu nome é **Lara Rodrigues**.  
-Sou uma desenvolvedora em desenvolvimento, comprometida com o aprendizado contínuo e a busca por excelência técnica.  
 
-Tenho interesse em aprofundar meus conhecimentos na área de desenvolvimento de software, aplicando boas práticas e soluções eficientes.  
-Este espaço reflete meu progresso, projetos e meu empenho em construir uma carreira sólida na tecnologia. 
+
+## ✨ Sobre mim
+
+Olá! Meu nome é **Lara** e sou uma desenvolvedora em formação, apaixonada por tecnologia e aprendizado contínuo. Tenho interesse especial no **desenvolvimento de software**, com foco em **organização, lógica e construção de soluções eficientes e bem estruturadas**.
+
+Tenho interesse especial em desenvolvimento de software, com foco em back-end, organização de código, lógica e construção de soluções eficientes e bem estruturadas.
 
 Estou disponível para colaborações e oportunidades que me permitam crescer e contribuir de forma significativa.
 
-📫 **Contato e Redes:**
 
-<p align="left">
+## 🛠️ Tecnologias 
+
+<p align="center">
+  <img alt="Java" title="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Spring" title="Spring" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="HTML" title="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="React" title="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="MySQL" title="MySQL / SQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="32px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Python" title="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Git" title="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+
+## 🧰 Ferramentas & Ambientes
+
+<p align="center">
+  <img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="32px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img alt="VS Code" title="Visual Studio Code" width="32px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="Insomnia" title="Insomnia" width="32px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+  <img alt="Postman" title="Postman" width="32px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img alt="Swagger" title="Swagger / OpenAPI" width="32px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />     
+  <img alt="DBeaver" title="DBeaver" width="32px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+  <img alt="MySQL Workbench" title="MySQL Workbench" width="32px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Jira" title="Jira" width="32px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+  <img alt="Figma" title="Figma" width="32px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</p>
+
+
+
+## 📫 Contato & Redes
+
+<p align="center">
   <a href="mailto:lararodriguesfs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/la-rodrigues/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
+<div align="center">
+<br>
+"Aprender, praticar e evoluir — todos os dias."
 
+</div>
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
----
-
-### 📊 Estatísticas
-
-
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lararodriguesfs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d1d5db,50:0f172a,100:d1d5db&height=160&section=footer" />
