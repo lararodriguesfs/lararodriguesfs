@@ -6,9 +6,9 @@
 
 ## ✨ Sobre mim
 
-Olá! Meu nome é **Lara** e sou uma desenvolvedora em formação, apaixonada por tecnologia e aprendizado contínuo. Tenho interesse especial no **desenvolvimento de software**, com foco em **organização, lógica e construção de soluções eficientes e bem estruturadas**.
+Olá! Meu nome é Lara e sou uma desenvolvedora em formação, apaixonada por tecnologia e aprendizado contínuo. Tenho interesse especial no desenvolvimento de software, com foco em back-end, organização de código, lógica e boas práticas para a construção de soluções eficientes e bem estruturadas.
 
-Tenho interesse especial em desenvolvimento de software, com foco em back-end, organização de código, lógica e construção de soluções eficientes e bem estruturadas.
+Busco constantemente aprimorar meus conhecimentos por meio de projetos práticos, aplicando conceitos que contribuem para a criação de sistemas escaláveis, organizados e de fácil manutenção.
 
 Estou disponível para colaborações e oportunidades que me permitam crescer e contribuir de forma significativa.
 
